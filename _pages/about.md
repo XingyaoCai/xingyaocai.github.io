@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Institute for Astronomy, Zhejiang University.
+subtitle: Observational Astrophysics Laboratory, Waseda University.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Zhejiang University</p>
+    <p>Waseda University</p>
     <p>866 Yuhangtang Road</p>
-    <p>Hangzhou, China 310058</p>
+    <p>Tokyo, Japan</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
